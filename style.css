@@ -11,3 +11,8 @@
 section {
 	padding-top: 5rem;
 }
+
+.alert{
+	color: white;
+	background-color: #B601A0;
+}
